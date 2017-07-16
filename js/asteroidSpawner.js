@@ -105,7 +105,7 @@ function AsteroidSpawner(app)
 
 function spawnChildrenAsteroids(sprite, size)
 {	
-	console.log(sprite)
+	
 /*	var nextItemToSpawn = getFirstInactiveAsteroid();
 	nextItemToSpawn.activateMe(size);
 
